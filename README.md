@@ -101,26 +101,7 @@ The system will simplify annual report preparation by automating departmental da
 ## Conclusion
 The Annual Report Portal modernizes the institutional reporting process by providing a centralized, efficient, and customizable solution for annual report management. It improves productivity, accuracy, and accessibility while reducing administrative workload.
 
-## Repository Structure
 
-```text
-SIH1641-Annual-Report-Portal/
-│
-├── frontend/
-├── backend/
-├── database/
-├── screenshots/
-├── README.md
-└── .gitignore
-```
 
-## Team
-- Team Name: __________
-- Team Leader: __________
-- Members: __________
-
-## License
-This project is developed as part of Smart India Hackathon (SIH) for educational purposes.
-Annual Report Portal for Institute
 
 
